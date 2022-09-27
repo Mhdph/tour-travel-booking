@@ -3,6 +3,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.direction {
+body {
   direction: rtl;
+  font-family: Shabnam;
+  background-color: #f6f7fe;
 }
